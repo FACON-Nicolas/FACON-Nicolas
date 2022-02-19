@@ -53,7 +53,7 @@ in your childhood. In this game, your computer cans also play against you like a
 
 #
 
-## <p align="center"><a href="https://www.github.com/FACON-Nicolas/Tetris"> Tetris <i>(2021)</i></a> </p>
+## <p align="center"><a href="https://github.com/FACON-Nicolas/Tetris"> Tetris <i>(2021)</i></a> </p>
 
 <p align="center">This repository contains the source code of a Tetris' copy. You can also play to Tetris like your parents in the 80's !</p>
 
