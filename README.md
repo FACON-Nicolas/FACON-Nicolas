@@ -1,7 +1,7 @@
 # <p align="center">👦 About me 👦</p>
 
-<p align="center"> Hello ! I'm a 18 years old french student in <a href="http://www.iut-lens.univ-artois.fr/">Universitary Institute of Technologies at Lens</a> 
-( 1st year / 3) and I'm studying computer science.</p>
+<p align="center"> Hello ! I'm a 18 years old French student in <a href="http://www.iut-lens.univ-artois.fr/">Universitary Institute of Technologies at Lens</a> 
+(1st year / 3) and I'm studying computer science.</p>
 
 <p align="center"><a href="mailto:faconicolas@gmail.com"><b>contact me</b></a></p>
 
@@ -44,7 +44,12 @@
 </table>
 
 # <p align="center">📂 Projects 📂</p>
-### <p align="center">🏠 Personal 🏠</p>
-#### <p align="center"><a href="www.github.com/FACON-Nicolas/Puissance4">Connect 4</a></p>
-### <p align="center">🎓 School 🎓</p>
-### <p align="center">💼 Pro 💼</p>
+# <p align="center">🏠 Personal 🏠</p>
+## <p align="center"><a href="www.github.com/FACON-Nicolas/Puissance4">Connect 4 <i>(2021)</i></a></p>
+
+<p align="center">This repository contains the source code of a connect4's (puissance 4) copy, you can play to connect4 like 
+in your childhood. In this game, your computer cans also play against you like a human player</p>
+<p align="center"><a href="https://ibb.co/4t1tTdT"><img style="border-radius: 10px;" src="https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png" alt="Capture-d-cran-2022-02-19-105806" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br /></p>
+
+# <p align="center">🎓 School 🎓</p>
+# <p align="center">💼 Pro 💼</p>
