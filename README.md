@@ -35,7 +35,7 @@
         <tr>
             <td align="center">Pygame</td>
             <td align="center">Git</td>
-            <td align="center"></td>
+            <td align="center">PL/SQL</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -49,7 +49,7 @@
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy, you can play to connect4 like 
 in your childhood. In this game, your computer cans also play against you like a human player</p>
-<p align="center"><a href="https://ibb.co/4t1tTdT"><img style="border-radius: 10px;" src="https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png" alt="Capture-d-cran-2022-02-19-105806" border="0"></a><br /><a target='_blank' href='https://fr.imgbb.com/'></a><br /></p>
+<p align="center"><a href="https://ibb.co/4t1tTdT"><img style="border-radius: 10px;" src="https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png" alt="Capture-d-cran-2022-02-19-105806" border="0"></a><br/><a target='_blank' href='https://fr.imgbb.com/'></a><br /></p>
 
 #
 
