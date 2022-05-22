@@ -60,11 +60,21 @@
 
 #
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas/conways-life-game"> Conway's game of life<i>(2022)</i></a></p>
+## <p align="center"><a href="https://github.com/FACON-Nicolas/conways-life-game"> Conway's game of life <i>(2022)</i></a></p>
 
-This repository contains a conways game of life developped in python, but currently the project is not actually optimized.
+<p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
 
 <p align="center"><a href="https://ibb.co/RCnDLmW"><img src="https://i.ibb.co/qRGrbfw/conways.png" alt="conways" border="0" style="border-radius: 10px;"></a></p>
+
+#
+
+## <p align="center"><a href="https://github.com/FACON-Nicolas/conways-life-game"> Pacman <i>(2022)</i><b> (in development)</b></a></p>
+
+<p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
+
+<p align="center"><a href="https://ibb.co/80sd0DN"><img src="https://i.ibb.co/1LQdLf7/pacman.png" alt="pacman" border="0"></a></p>
+
+#
 
 # <p align="center">🎓 School 🎓</p>
 # <p align="center">💼 Pro 💼</p>
