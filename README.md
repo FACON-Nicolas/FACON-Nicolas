@@ -1,6 +1,6 @@
 # <p align="center">👦 About me 👦</p>
 
-<p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technologies</a> 
+<p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
 (1st year / 3) and I'm studying computer science.</p>
 
 <p align="center"><a href="mailto:faconicolas@gmail.com"><b>contact me</b></a></p>
