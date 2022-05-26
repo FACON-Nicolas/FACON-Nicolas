@@ -49,7 +49,7 @@
 ## <p align="center"><a href="https://github.com/FACON-Nicolas/Puissance4">Connect 4 <i>(2021)</i></a></p>
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
-<p align="center"><a href="https://ibb.co/4t1tTdT"><img style="border-radius: 10px;" src="https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png" alt="Capture-d-cran-2022-02-19-105806" border="0" width="500px"></a><br/><a target='_blank' href='https://fr.imgbb.com/'></a><br /></p>
+<p align="center"><a href="https://github.com/FACON-Nicolas/Puissance4"><img style="border-radius: 10px;" src="https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png" alt="Capture-d-cran-2022-02-19-105806" border="0" width="500px"></a><br/><a target='_blank' href='https://fr.imgbb.com/'></a><br /></p>
 
 #
 
@@ -57,7 +57,7 @@
 
 <p align="center">This repository contains the source code of a Tetris' copy.</p>
 
-<p align="center"><a href="https://ibb.co/44jx2Nk"><img src="https://i.ibb.co/c2NdwTq/tetris.png" alt="tetris" border="0" style="border-radius: 10px;" width="500px"></a></p>
+<p align="center"><a href="https://github.com/FACON-Nicolas/Tetris"><img src="https://i.ibb.co/c2NdwTq/tetris.png" alt="tetris" border="0" style="border-radius: 10px;" width="500px"></a></p>
 
 #
 
@@ -65,7 +65,7 @@
 
 <p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
 
-<p align="center"><a href="https://ibb.co/RCnDLmW"><img src="https://i.ibb.co/qRGrbfw/conways.png" alt="conways" border="0" style="border-radius: 10px;" width="500px"></a></p>
+<p align="center"><a href="https://github.com/FACON-Nicolas/conways-life-game"><img src="https://i.ibb.co/qRGrbfw/conways.png" alt="conways" border="0" style="border-radius: 10px;" width="500px"></a></p>
 
 #
 
@@ -73,7 +73,7 @@
 
 <p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
 
-<p align="center"><a href="https://ibb.co/80sd0DN"><img src="https://i.ibb.co/1LQdLf7/pacman.png" alt="pacman" border="0" width="500px"></a></p>
+<p align="center"><a href="https://github.com/FACON-Nicolas"><img src="https://i.ibb.co/1LQdLf7/pacman.png" alt="pacman" border="0" width="500px"></a></p>
 
 #
 
