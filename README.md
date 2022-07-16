@@ -69,11 +69,20 @@
 
 #
 
+## <p align="center"><a href="https://github.com/FACON-Nicolas"> Pong <i>(2022)</i></a></p>
+
+<center>This repository is composed by a pong game source code.
+The game is a beta version, many bugs are still present and the project needs a new conception for a cleaner code</center>
+
+<p align="center"><a href="https://github.com/FACON-Nicolas"><img src="https://i.ibb.co/tYJ7Fd7/pong-main.png" alt="pong" border="0" width="500px"></a></p>
+
+#
+
 ## <p align="center"><a href="https://github.com/FACON-Nicolas"> Pacman <i>(2022)</i><b> (in development) </b></a></p>
 
 <p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
 
-<p align="center"><a href="https://github.com/FACON-Nicolas"><img src="https://i.ibb.co/1LQdLf7/pacman.png" alt="pacman" border="0" width="500px"></a></p>
+<p align="center"><a href="https://github.com/FACON-Nicolas/pong-game"><img src="https://i.ibb.co/1LQdLf7/pacman.png" alt="pacman" border="0" width="500px"></a></p>
 
 #
 
