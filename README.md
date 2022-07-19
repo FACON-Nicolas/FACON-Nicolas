@@ -80,11 +80,10 @@ The game is a beta version, many bugs are still present and the project needs a 
 
 ## <p align="center"><a href="https://github.com/FACON-Nicolas/conways-cpp"> Conway's game of life (C++) <i>(2022)</i></a></p>
 
-<center>in this repository there's a source code of the conway's game of life developed in C++.
+<p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
+The project needs a better conception and a HashLife implementation to optimize.</p>
 
-The project needs a better conception and a HashLife implementation to optimize.</center>
-
-<a href="https://github.com/FACON-Nicolas/conways-cpp"><img src="https://i.ibb.co/3BLHn3z/conways-cpp.png" alt="conways-cpp" border="0"></a>
+<p align="center"><a href="https://github.com/FACON-Nicolas/conways-cpp"><img src="https://i.ibb.co/3BLHn3z/conways-cpp.png" alt="conways-cpp" border="0" style="border-radius: 10px;" width="500px"></a></p>
 
 #
 
