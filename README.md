@@ -3,7 +3,7 @@
 <p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
 (1st year / 3) and I'm studying computer science.</p>
 
-<p align="center"><a href="mailto:faconicolas@gmail.com"><b>contact me</b></a></p>
+#### <p align="center">[contact me](mailto:faconicolas@gmail.com)</p>
 
 # <p align="center">📚 Skills 📚</p>
 
@@ -46,14 +46,14 @@
 # <p align="center">📂 Projects 📂</p>
 # <p align="center">🏠 Personal 🏠</p>
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas/Puissance4">Connect 4 <i>(2021)</i></a></p>
+## <p align="center">[Connect 4 _(2021)_](https://github.com/FACON-Nicolas/Puissance4)</p>
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
 <p align="center"><a href="https://github.com/FACON-Nicolas/Puissance4"><img style="border-radius: 10px;" src="https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png" alt="Capture-d-cran-2022-02-19-105806" border="0" width="500px"></a><br/><a target='_blank' href='https://fr.imgbb.com/'></a><br /></p>
 
 #
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas/Tetris"> Tetris <i>(2021)</i></a></p>
+## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
 
 <p align="center">This repository contains the source code of a Tetris' copy.</p>
 
@@ -61,7 +61,7 @@
 
 #
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas/conways-life-game"> Conway's game of life <i>(2022)</i></a></p>
+## <p align="center">[Conway's game of life _(2022)_](https://github.com/FACON-Nicolas/conways-life-game)</p>
 
 <p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
 
@@ -69,7 +69,7 @@
 
 #
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas/pong-game"> Pong <i>(2022)</i></a></p>
+## <p align="center">[Pong _(2022)_](https://github.com/FACON-Nicolas/pong-game)</p>
 
 <center>This repository is composed by a pong game source code.
 The game is a beta version, many bugs are still present and the project needs a new conception for a cleaner code</center>
@@ -78,7 +78,7 @@ The game is a beta version, many bugs are still present and the project needs a 
 
 #
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas/conways-cpp"> Conway's game of life (C++) <i>(2022)</i></a></p>
+## <p align="center">[Conway's game of life (C++) _(2022)_](https://github.com/FACON-Nicolas/conways-cpp)</p>
 
 <p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
 The project needs a better conception and a HashLife implementation to optimize.</p>
@@ -87,11 +87,11 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #
 
-## <p align="center"><a href="https://github.com/FACON-Nicolas"> Pacman <i>(2022)</i><b> (in development) </b></a></p>
+## <p align="center">[Pacman _(2022)_ **(in development)**](https://github.com/FACON-Nicolas)</p>
 
 <p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
 
-<p align="center"><a href="https://github.com/FACON-Nicolas/pong-game"><img src="https://i.ibb.co/1LQdLf7/pacman.png" alt="pacman" border="0" width="500px"></a></p>
+#### <p align="center" width="500px">![](https://i.ibb.co/1LQdLf7/pacman.png)</p>
 
 #
 
