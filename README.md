@@ -88,6 +88,18 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #
 
+## <p align="center">[Collision2D System _(2022)_ **(in development)**](https://i.ibb.co/txDp9nc/collision2-D-preview.png)</p>
+
+
+<p align="center">**This picture is a preview, not a screenshot.**</p>
+
+<p align="center">this repository contains a source code of a system collision in 2D. there are two types of collisions, the boxes and the circles. The project is currently in development.</p>
+
+
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/3BLHn3z/conways-cpp.png)</p>
+
+#
+
 ## <p align="center">[Pacman _(2022)_ **(in development)**](https://github.com/FACON-Nicolas)</p>
 
 <p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
