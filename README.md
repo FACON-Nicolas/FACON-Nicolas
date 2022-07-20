@@ -93,7 +93,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 <p align="center"><b>This picture is a preview, not a real view of the project.</b></p>
 
-<p align="center">this repository contains a source code of a system collision in 2D. there are two types of collisions, the boxes and the circles. The project</p>
+<p align="center">this repository contains a source code of a system collision in 2D. there are two types of collisions, the boxes and the circles.<br> The project is currently in development.</p>
 
 
 #### <p align="center" style="width: 400px; margin: auto; border: 1px solid black">![](https://i.ibb.co/txDp9nc/collision2-D-preview.png)</p>
@@ -109,4 +109,13 @@ The project needs a better conception and a HashLife implementation to optimize.
 #
 
 # <p align="center">🎓 School 🎓</p>
+
+## <p align="center">[e-Portfolio _(2022)_ ](https://github.com/FACON-Nicolas)</p>
+
+<p align="center">Website used as e-Portfolio developed at school.</p>
+
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
+
+#
+
 # <p align="center">💼 Pro 💼</p>
