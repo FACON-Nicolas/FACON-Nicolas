@@ -52,7 +52,7 @@
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png)</p>
 
----
+#
 
 ## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
 
@@ -60,7 +60,7 @@
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/c2NdwTq/tetris.png)</p>
 
----
+#
 
 ## <p align="center">[Conway's game of life _(2022)_](https://github.com/FACON-Nicolas/conways-life-game)</p>
 
@@ -68,7 +68,7 @@
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/qRGrbfw/conways.png)</p>
 
----
+#
 
 ## <p align="center">[Pong _(2022)_](https://github.com/FACON-Nicolas/pong-game)</p>
 
@@ -77,7 +77,7 @@ The game is a beta version, many bugs are still present and the project needs a 
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/tYJ7Fd7/pong-main.png)</p>
 
----
+#
 
 ## <p align="center">[Conway's game of life (C++) _(2022)_](https://github.com/FACON-Nicolas/conways-cpp)</p>
 
@@ -86,7 +86,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/3BLHn3z/conways-cpp.png)</p>
 
----
+#
 
 ## <p align="center">[Collision2D System _(2022)_ **(in development)**](https://github.com/FACON-Nicolas/Collision2D)</p>
 
@@ -98,7 +98,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #### <p align="center" style="width: 400px; margin: auto; border: 1px solid black">![](https://i.ibb.co/txDp9nc/collision2-D-preview.png)</p>
 
----
+#
 
 ## <p align="center">[Pacman _(2022)_ **(in development)**](https://github.com/FACON-Nicolas)</p>
 
@@ -106,7 +106,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/1LQdLf7/pacman.png)</p>
 
----
+#
 
 # <p align="center">🎓 School 🎓</p>
 
@@ -116,6 +116,6 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
 
----
+#
 
 # <p align="center">💼 Pro 💼</p>
