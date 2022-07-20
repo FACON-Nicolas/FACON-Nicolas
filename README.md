@@ -50,7 +50,7 @@
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/7CkCW4W/Capture-d-cran-2022-02-19-105806.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/7jfZpmW/connect4.png)</p>
 
 #
 
@@ -66,7 +66,7 @@
 
 <p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/qRGrbfw/conways.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/LQHJ91W/conway.png)</p>
 
 #
 
