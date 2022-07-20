@@ -58,7 +58,7 @@
 
 <p align="center">This repository contains the source code of a Tetris' copy.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/c2NdwTq/tetris.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/HXgchgG/Tetris.png)</p>
 
 #
 
