@@ -96,7 +96,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 <p align="center">this repository contains a source code of a system collision in 2D. there are two types of collisions, the boxes and the circles. The project</p>
 
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/txDp9nc/collision2-D-preview.png)</p>
+#### <p align="center" style="width: 400px; margin: auto; border: 1px solid black">![](https://i.ibb.co/txDp9nc/collision2-D-preview.png)</p>
 
 #
 
