@@ -170,7 +170,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #
 
-# <p align="center">:necktie: School :necktie:</p>
+# <p align="center">:label: School :label:</p>
 
 ## <p align="center">[e-Portfolio _(2022)_ ](https://github.com/FACON-Nicolas)</p>
 
