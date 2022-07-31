@@ -5,7 +5,7 @@
 
 #### <p align="center">[contact me](mailto:faconicolas@gmail.com)</p>
 
-# <p align="center">📚 Skills 📚</p>
+# <p align="center">:memo: Skills :memo:</p>
 
 <table align="center">
     <thead>
@@ -49,8 +49,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FACON-Nicolas&theme=radical">
 </p>
 
-# <p align="center">📂 Projects 📂</p>
-# <p align="center">🏠 Personal 🏠</p>
+# <p align="center">:card_file_box: Projects :card_file_box:</p>
+# <p align="center">:art: Personal :art:</p>
 
 ## <p align="center">[Connect 4 _(2021)_](https://github.com/FACON-Nicolas/Puissance4)</p>
 
@@ -170,7 +170,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #
 
-# <p align="center">🎓 School 🎓</p>
+# <p align="center">:necktie: School :necktie:</p>
 
 ## <p align="center">[e-Portfolio _(2022)_ ](https://github.com/FACON-Nicolas)</p>
 
@@ -188,4 +188,4 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 #
 
-# <p align="center">💼 Pro 💼</p>
+# <p align="center">:necktie: Pro :necktie:</p>
