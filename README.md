@@ -43,6 +43,12 @@
     </tbody>
 </table>
 
+# <p align="center">:chart_with_upwards_trend: Stats :chart_with_upwards_trend:</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FACON-Nicolas&theme=radical">
+</p>
+
 # <p align="center">📂 Projects 📂</p>
 # <p align="center">🏠 Personal 🏠</p>
 
@@ -183,10 +189,3 @@ The project needs a better conception and a HashLife implementation to optimize.
 #
 
 # <p align="center">💼 Pro 💼</p>
-
-
-# <p align="center">Stats</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FACON-Nicolas&theme=radical">
-</p>
