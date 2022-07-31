@@ -1,4 +1,4 @@
-# <p align="center">👦 About me 👦</p>
+# <p align="center">:technologist: About me :technologist:</p>
 
 <p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
 (1st year / 3) and I'm studying computer science.</p>
