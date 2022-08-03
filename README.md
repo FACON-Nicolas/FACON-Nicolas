@@ -157,10 +157,9 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 <p align="center">
     <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
-    <img src="https://img.shields.io/badge/Language-python-0000ff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-pygame-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-pygame__gui-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-21Ko-f12222" alt="">
+    <img src="https://img.shields.io/badge/Language-C++-0000ff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-SFML-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
