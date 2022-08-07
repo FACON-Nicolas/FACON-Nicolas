@@ -159,6 +159,7 @@ The project needs a better conception and a HashLife implementation to optimize.
     <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
     <img src="https://img.shields.io/badge/Language-C++-0000ff" alt="">
     <img src="https://img.shields.io/badge/Libraries-SFML-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-Boost-00cfff" alt="">
     <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
