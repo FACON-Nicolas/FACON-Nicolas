@@ -6,6 +6,10 @@ Hello ! I'm a 19 years old French student at [Lens University Institute of Techn
 
 # :memo: Skills :memo:
 
+|: Software Development :|| Web Development || Computer Graphics |
+| :-------: | :-------: | :----: | :-----: |:-----------------:|
+|   C++     |  Java     |  HTML  |   CSS   |       Unity       |
+
 <table align="center">
     <thead>
         <tr>
