@@ -57,9 +57,9 @@ Hello ! I'm a 19 years old French student at [Lens University Institute of Techn
 ![](https://img.shields.io/badge/Size-57Ko-f12222)
 ![](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-<p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
+This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/PFLPWHh/connect4.png)</p>
+#### ![](https://i.ibb.co/PFLPWHh/connect4.png)
 
 #
 
@@ -73,7 +73,7 @@ Hello ! I'm a 19 years old French student at [Lens University Institute of Techn
 
 This repository contains the source code of a Tetris' copy.
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/HXgchgG/Tetris.png)</p>
+#### ![](https://i.ibb.co/HXgchgG/Tetris.png)
 
 #
 
@@ -87,7 +87,7 @@ This repository contains the source code of a Tetris' copy.
 
 This repository contains a conways game of life developped in python, but currently the project is not actually optimized.
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/LQHJ91W/conway.png)</p>
+#### ![](https://i.ibb.co/LQHJ91W/conway.png)
 
 #
 
@@ -103,7 +103,7 @@ This repository contains a conways game of life developped in python, but curren
 This repository is composed by a pong game source code.
 The game is a beta version, many bugs are still present and the project needs a new conception for a cleaner code
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/tYJ7Fd7/pong-main.png)</p>
+#### ![](https://i.ibb.co/tYJ7Fd7/pong-main.png)
 
 #
 
@@ -118,7 +118,7 @@ The game is a beta version, many bugs are still present and the project needs a 
 in this repository there's a source code of the conway's game of life developed in C++. <br/>
 The project needs a better conception and a HashLife implementation to optimize.
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/3BLHn3z/conways-cpp.png)</p>
+#### ![](https://i.ibb.co/3BLHn3z/conways-cpp.png)
 
 #
 
@@ -134,7 +134,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 this repository contains a source code of a system collision in 2D. there are two types of collisions, the boxes and the circles.<br> The project is currently in development.
 
 
-#### <p align="center" style="width: 400px; margin: auto; border: 1px solid black">![](https://i.ibb.co/txDp9nc/collision2-D-preview.png)</p>
+#### ![](https://i.ibb.co/txDp9nc/collision2-D-preview.png)
 
 #
 
@@ -149,7 +149,7 @@ this repository contains a source code of a system collision in 2D. there are tw
 
 This repository contains the source code of a pacman's copy. The project is currently in development.
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/1LQdLf7/pacman.png)</p>
+#### ![](https://i.ibb.co/1LQdLf7/pacman.png)
 
 #
 
@@ -166,7 +166,7 @@ This repository contains the source code of a pacman's copy. The project is curr
 
 Website used as e-Portfolio developed at school.
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
+#### ![](https://i.ibb.co/bzD1Vnv/site-hugo.png)
 
 #
 
