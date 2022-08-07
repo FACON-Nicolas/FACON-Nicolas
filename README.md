@@ -1,11 +1,10 @@
-# <p align="center">:technologist: About me :technologist:</p>
+# :technologist: About me :technologist:
 
-<p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
-(1st year / 3) and I'm studying computer science.</p>
+Hello ! I'm a 19 years old French student at [Lens University Institute of Technology](http://www.iut-lens.univ-artois.fr/) (2nd year / 3) and I'm studying computer science.
 
-#### <p align="center">[contact me](mailto:faconicolas@gmail.com)</p>
+#### [contact me](mailto:faconicolas@gmail.com)
 
-# <p align="center">:memo: Skills :memo:</p>
+# :memo: Skills :memo:
 
 <table align="center">
     <thead>
