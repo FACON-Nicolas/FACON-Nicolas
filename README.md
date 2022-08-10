@@ -64,7 +64,7 @@
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
 
-<p align="center" width="400px" style="margin: auto;"><img align="center" src="resources/connect4.gif" alt="" />
+<p align="center" width="400" style="margin: auto;"><img align="center" src="resources/connect4.gif" alt="" />
 </p>
 
 #
@@ -81,7 +81,7 @@
 
 <p align="center">This repository contains the source code of a Tetris' copy.</p>
 
-<p align="center" width="400px" style="margin: auto;"><img align="center" src="resources/tetris.gif" alt="" />
+<p align="center" width="400" style="margin: auto;"><img align="center" src="resources/tetris.gif" alt="" />
 </p>
 
 #
