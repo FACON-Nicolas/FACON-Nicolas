@@ -67,7 +67,6 @@
 <p align="center" style="width: 400px; margin: auto;"><img align="center" src="resources/connect4.gif" alt="" />
 </p>
 
-
 #
 
 ## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
@@ -82,7 +81,8 @@
 
 <p align="center">This repository contains the source code of a Tetris' copy.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/HXgchgG/Tetris.png)</p>
+<p align="center" style="width: 400px; margin: auto;"><img align="center" src="resources/tetris.gif" alt="" />
+</p>
 
 #
 
