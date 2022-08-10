@@ -64,7 +64,7 @@
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/PFLPWHh/connect4.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/CvTv0jZ/puissance4.gif)</p>
 
 #
 
