@@ -98,7 +98,8 @@
 
 <p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/LQHJ91W/conway.png)</p>
+<p align="center" style="margin: auto;"><img align="center" src="resources/conways-py.gif" width="600" alt="" />
+</p>
 
 #
 
