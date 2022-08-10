@@ -1,3 +1,9 @@
+<style>
+    img {
+    border-radius: 8px;
+}
+</style>
+
 # <p align="center">:technologist: About me :technologist:</p>
 
 <p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
@@ -64,7 +70,7 @@
 
 <p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
 
-<p align="center" style="width: 400px; margin: auto;"> <img align="center" src="resources/connect4.gif" alt=""></img>
+<p align="center" style="width: 400px; margin: auto; border-radius:50%;"><img align="center" src="resources/connect4.gif" alt="" />
 </p>
 
 #
