@@ -67,6 +67,7 @@
 <p align="center" style="width: 400px; margin: auto;"><img align="center" src="resources/connect4.gif" alt="" />
 </p>
 
+
 #
 
 ## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
