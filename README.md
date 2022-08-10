@@ -117,7 +117,8 @@
 <center>This repository is composed by a pong game source code.
 The game is a beta version, many bugs are still present and the project needs a new conception for a cleaner code</center>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/tYJ7Fd7/pong-main.png)</p>
+<p align="center" style="margin: auto;"><img align="center" src="resources/pong.gif" width="600" alt="" />
+</p>
 
 #
 
@@ -134,7 +135,8 @@ The game is a beta version, many bugs are still present and the project needs a 
 <p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
 The project needs a better conception and a HashLife implementation to optimize.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/3BLHn3z/conways-cpp.png)</p>
+<p align="center" style="margin: auto;"><img align="center" src="resources/conways-cpp.gif" width="600" alt="" />
+</p>
 
 #
 
