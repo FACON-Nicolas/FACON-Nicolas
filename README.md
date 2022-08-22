@@ -191,8 +191,7 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 <p align="center">Website used as e-Portfolio developed at school.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">
-![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
 
 #
 
