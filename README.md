@@ -171,7 +171,9 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 <p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/1LQdLf7/pacman.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">
+<p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/LCYRZy2/image.png" width="600" alt="" />
+</p>
 
 #
 
@@ -189,7 +191,8 @@ The project needs a better conception and a HashLife implementation to optimize.
 
 <p align="center">Website used as e-Portfolio developed at school.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
+#### <p align="center" style="width: 400px; margin: auto;">
+![](https://i.ibb.co/bzD1Vnv/site-hugo.png)</p>
 
 #
 
