@@ -38,7 +38,7 @@
             <td align="center">PL/SQL</td>
             <td align="center">PHP</td>
             <td align="center">Pygame</td>
-            <td align="center">OpenGL</td>
+            <td align="center"></td>
         </tr>
     </tbody>
 </table>
@@ -52,53 +52,20 @@
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
 
-## <p align="center">[Connect 4 _(2021)_](https://github.com/FACON-Nicolas/Puissance4)</p>
+## <p align="center">[Conway's game of life (C++) _(2022)_](https://github.com/FACON-Nicolas/conways-cpp)</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Release-v3.0-blueviolet" alt="">
-    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
-    <img src="https://img.shields.io/badge/Libraries-pygame-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-57Ko-f12222" alt="">
+    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
+    <img src="https://img.shields.io/badge/Language-C++-0000ff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-SFML-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-21Ko-f12222" alt="">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
+<p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
+The project needs a better conception and a HashLife implementation to optimize.</p>
 
-<p align="center" style="margin: auto;"><img align="center" width="600" src="resources/connect4.gif" alt="" />
-</p>
-
-#
-
-## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Release-v2.0-blueviolet" alt="">
-    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
-    <img src="https://img.shields.io/badge/Libraries-pygame_pygame__gui-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-2.23Mo-f12222" alt="">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
-</p>
-
-<p align="center">This repository contains the source code of a Tetris' copy.</p>
-
-<p align="center" style="margin: auto;"><img align="center" src="resources/tetris.gif" width="600" alt="" />
-</p>
-
-#
-
-## <p align="center">[Conway's game of life _(2022)_](https://github.com/FACON-Nicolas/conways-life-game)</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Release-v1.0-blueviolet" alt="">
-    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
-    <img src="https://img.shields.io/badge/Libraries-pygame_pygame__gui-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-33.2Ko-f12222" alt="">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
-</p>
-
-<p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
-
-<p align="center" style="margin: auto;"><img align="center" src="resources/conways-py.gif" width="600" alt="" />
+<p align="center" style="margin: auto;"><img align="center" src="resources/conways-cpp.gif" width="600" alt="" />
 </p>
 
 #
@@ -122,20 +89,53 @@ The game is a beta version, many bugs are still present and the project needs a 
 
 #
 
-## <p align="center">[Conway's game of life (C++) _(2022)_](https://github.com/FACON-Nicolas/conways-cpp)</p>
+## <p align="center">[Conway's game of life _(2022)_](https://github.com/FACON-Nicolas/conways-life-game)</p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
-    <img src="https://img.shields.io/badge/Language-C++-0000ff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-SFML-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-21Ko-f12222" alt="">
+    <img src="https://img.shields.io/badge/Release-v1.0-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
+    <img src="https://img.shields.io/badge/Libraries-pygame_pygame__gui-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-33.2Ko-f12222" alt="">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
-The project needs a better conception and a HashLife implementation to optimize.</p>
+<p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
 
-<p align="center" style="margin: auto;"><img align="center" src="resources/conways-cpp.gif" width="600" alt="" />
+<p align="center" style="margin: auto;"><img align="center" src="resources/conways-py.gif" width="600" alt="" />
+</p>
+
+#
+
+## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v2.0-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
+    <img src="https://img.shields.io/badge/Libraries-pygame_pygame__gui-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-2.23Mo-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This repository contains the source code of a Tetris' copy.</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="resources/tetris.gif" width="600" alt="" />
+</p>
+
+#
+
+## <p align="center">[Connect 4 _(2021)_](https://github.com/FACON-Nicolas/Puissance4)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v3.0-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
+    <img src="https://img.shields.io/badge/Libraries-pygame-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-57Ko-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
+
+<p align="center" style="margin: auto;"><img align="center" width="600" src="resources/connect4.gif" alt="" />
 </p>
 
 #
