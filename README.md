@@ -13,6 +13,7 @@
             <th colspan="2">Software Development</th>
             <th colspan="2">Web Development</th>
             <th colspan="2">Computer Graphics</th>
+            <th>Framework</th>
         </tr>
     </thead>
     <tbody>
@@ -23,6 +24,7 @@
             <td align="center">CSS</td>
             <td align="center">Unity</td>
             <td align="center">Photoshop</td>
+            <td align="center">boost</td>
         </tr>
         <tr>
             <td align="center">Python</td>
@@ -31,6 +33,7 @@
             <td align="center">Git</td>
             <td align="center">JavaFX</td>
             <td align="center">SFML</td>
+            <td align="center">numpy</td>
         </tr>
         <tr>
             <td align="center">bash</td>
@@ -39,6 +42,7 @@
             <td align="center">PHP</td>
             <td align="center">Pygame</td>
             <td align="center">Swing</td>
+            <td align="center">Networkx</td>
         </tr>
         <tr>
             <td align="center"></td>
@@ -47,6 +51,7 @@
             <td align="center"></td>
             <td align="center">OpenGL</td>
             <td align="center">Unreal Engine</td>
+            <td align="center"></td>
         </tr>
     </tbody>
 </table>
@@ -157,7 +162,7 @@ The game is a beta version, many bugs are here and the project needs a new conce
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center"><b>This picture is a preview, not a real view of the project.</b></p>
+<p align="center"><b>This picture is a preview, not a real screenshot from the project.</b></p>
 
 <p align="center">this repository contains a source code of a system collision in 2D. there are two types of collisions, the boxes and the circles.<br> The project is currently in development.</p>
 
