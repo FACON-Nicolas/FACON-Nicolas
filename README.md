@@ -1,7 +1,7 @@
 # <p align="center">:technologist: About me :technologist:</p>
 
 <p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
-(1st year / 3) and I'm studying computer science.</p>
+(2st year / 3) and I'm studying computer science.</p>
 
 #### <p align="center">[contact me](mailto:faconicolas@gmail.com)</p>
 
@@ -35,10 +35,18 @@
         <tr>
             <td align="center">bash</td>
             <td align="center">Git</td>
-            <td align="center">PL/SQL</td>
+            <td align="center">PLSQL</td>
             <td align="center">PHP</td>
             <td align="center">Pygame</td>
             <td align="center">Swing</td>
+        </tr>
+        <tr>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">JavaScript</td>
+            <td align="center"></td>
+            <td align="center">OpenGL</td>
+            <td align="center">Unreal Engine</td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +71,7 @@
 </p>
 
 <p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
-The project needs a better conception and a HashLife implementation to optimize.</p>
+The project needs a better conception and a HashLife implementation to be optimized.</p>
 
 <p align="center" style="margin: auto;"><img align="center" src="resources/conways-cpp.gif" width="600" alt="" />
 </p>
@@ -81,8 +89,8 @@ The project needs a better conception and a HashLife implementation to optimize.
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<center>This repository is composed by a pong game source code.
-The game is a beta version, many bugs are still present and the project needs a new conception for a cleaner code</center>
+<center>This repository is composed by a source code of pong game
+The game is a beta version, many bugs are here and the project needs a new conception for a cleaner code</center>
 
 <p align="center" style="margin: auto;"><img align="center" src="resources/pong.gif" width="600" alt="" />
 </p>
@@ -99,7 +107,7 @@ The game is a beta version, many bugs are still present and the project needs a 
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
+<p align="center">This repository contains a conway's game of life developped in python.</p>
 
 <p align="center" style="margin: auto;"><img align="center" src="resources/conways-py.gif" width="600" alt="" />
 </p>
