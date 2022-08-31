@@ -184,13 +184,29 @@ The game is a beta version, many bugs are here and the project needs a new conce
 
 <p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
 
-#### <p align="center" style="width: 400px; margin: auto;">
 <p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/LCYRZy2/image.png" width="600" alt="" />
 </p>
 
 #
 
 # <p align="center">:label: School :label:</p>
+
+## <p align="center">[Bomberman _(2022)_ ](https://github.com/FACON-Nicolas)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
+    <img src="https://img.shields.io/badge/Language-Java-ff0000" alt="">
+    <img src="https://img.shields.io/badge/framework-JavaFX-ff0000" alt="">
+    <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This repository contains a source code of a bomberman game, this project is currently in development at school</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="resources/bomberman.png" width="600" alt="" />
+</p>
+
+#
 
 ## <p align="center">[e-Portfolio _(2022)_ ](https://github.com/FACON-Nicolas)</p>
 
