@@ -65,7 +65,7 @@
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
 
-## <p align="center">[Pacman _(2022)_](https://github.com/FACON-Nicolas)</p>
+## <p align="center">[Pacman _(2022)_](https://github.com/FACON-Nicolas/pacman)</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
