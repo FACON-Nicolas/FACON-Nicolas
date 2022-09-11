@@ -65,6 +65,24 @@
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
 
+## <p align="center">[Pacman _(2022)_](https://github.com/FACON-Nicolas)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
+    <img src="https://img.shields.io/badge/Language-C++-0000ff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-SFML-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-Boost-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-14.1Mo-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="resources/pacman.gif" width="600" alt="" />
+</p>
+
+#
+
 ## <p align="center">[Conway's game of life (C++) _(2022)_](https://github.com/FACON-Nicolas/conways-cpp)</p>
 
 <p align="center">
@@ -171,27 +189,9 @@ The game is a beta version, many bugs are here and the project needs a new conce
 
 #
 
-## <p align="center">[Pacman _(2022)_ **(in development)**](https://github.com/FACON-Nicolas)</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
-    <img src="https://img.shields.io/badge/Language-C++-0000ff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-SFML-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-Boost-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
-</p>
-
-<p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
-
-<p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/LCYRZy2/image.png" width="600" alt="" />
-</p>
-
-#
-
 # <p align="center">:label: School :label:</p>
 
-## <p align="center">[Bomberman _(2022)_ ](https://github.com/FACON-Nicolas)</p>
+## <p align="center">[Bomberman _(2022)_ (in development)](https://github.com/FACON-Nicolas)</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
