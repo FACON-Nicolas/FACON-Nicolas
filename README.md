@@ -47,10 +47,10 @@
         <tr>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">JavaScript</td>
             <td align="center"></td>
-            <td align="center">OpenGL</td>
+            <td align="center"></td>
             <td align="center">Unreal Engine</td>
+            <td align="center"></td>
             <td align="center"></td>
         </tr>
     </tbody>
