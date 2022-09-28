@@ -47,9 +47,9 @@
         <tr>
             <td align="center"></td>
             <td align="center"></td>
+            <td align="center">Laravel</td>
+            <td align="center">Blade</td>
             <td align="center"></td>
-            <td align="center"></td>
-            <td align="center">Unreal Engine</td>
             <td align="center"></td>
             <td align="center"></td>
         </tr>
@@ -76,7 +76,7 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center">This repository contains the source code of a pacman's copy. The project is currently in development.</p>
+<p align="center">This repository contains the source code of a pacman's copy. This project needs a better conception, an A* algorithm implementation, and sound FX implementation. </p>
 
 <p align="center" style="margin: auto;"><img align="center" src="resources/pacman.gif" width="600" alt="" />
 </p>
@@ -93,8 +93,7 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center">in this repository there's a source code of the conway's game of life developed in C++. <br/>
-The project needs a better conception and a HashLife implementation to be optimized.</p>
+<p align="center">in this repository there's a source code of the conway's game of life developed in C++. The project needs a better conception and HashLife algorithm implementation </p>
 
 <p align="center" style="margin: auto;"><img align="center" src="resources/conways-cpp.gif" width="600" alt="" />
 </p>
@@ -164,7 +163,7 @@ The game is a beta version, many bugs are here and the project needs a new conce
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
-<p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player</p>
+<p align="center">This repository contains the source code of a connect4's (puissance 4) copy. In this game, your computer cans also play against you like a human player, the project needs a review to patch some of bugs currently presents.</p>
 
 <p align="center" style="margin: auto;"><img align="center" width="600" src="resources/connect4.gif" alt="" />
 </p>
