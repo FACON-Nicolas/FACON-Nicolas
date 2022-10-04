@@ -190,7 +190,7 @@ The game is a beta version, many bugs are here and the project needs a new conce
 
 # <p align="center">:label: School :label:</p>
 
-## <p align="center">[LinkedList](https://github.com/FACON-Nicolas)</p>
+## <p align="center">[LinkedList _(2022)_](https://github.com/FACON-Nicolas/listes-chainees)</p>
 
 <p align="center">This is a project developped at school in a resources called `Dev Efficace`. This project contains a source code for LinkedList, SortedLinkedList and DoublyLinkedList.</p>
 
