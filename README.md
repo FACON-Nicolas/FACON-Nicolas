@@ -192,15 +192,15 @@ The game is a beta version, many bugs are here and the project needs a new conce
 
 ## <p align="center">[LinkedList _(2022)_](https://github.com/FACON-Nicolas/listes-chainees)</p>
 
-<p align="center">This is a project developped at school in a resources called `Dev Efficace`. This project contains a source code for LinkedList, SortedLinkedList and DoublyLinkedList.</p>
-
-<p align="center" style="margin: auto;"><img align="center" src="https://cdn.programiz.com/sites/tutorial2program/files/linked-list-concept.png" width="600" alt="" />
-</p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
     <img src="https://img.shields.io/badge/Language-Java-ff0000" alt="">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This is a project developped at school in a resources called `Dev Efficace`. This project contains a source code for LinkedList, SortedLinkedList and DoublyLinkedList.</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="https://cdn.programiz.com/sites/tutorial2program/files/linked-list-concept.png" width="600" alt="" />
 </p>
 
 ## <p align="center">[Bomberman _(2022)_ (in development)](https://github.com/FACON-Nicolas)</p>
