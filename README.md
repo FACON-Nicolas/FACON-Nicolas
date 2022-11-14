@@ -83,7 +83,7 @@
 
 #
 
-## <p align="center">[Conway's game of life (C++) _(2022)_ **(Maintenance)**](https://github.com/FACON-Nicolas/conways-cpp)</p>
+## <p align="center">[Conway's game of life (C++) _(2022)_](https://github.com/FACON-Nicolas/conways-cpp)</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
