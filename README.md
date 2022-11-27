@@ -65,6 +65,24 @@
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
 
+## <p align="center">[Sprite Sheet Splitter _(2022)_](https://github.com/FACON-Nicolas/sprite-sheet-splitter)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
+    <img src="https://img.shields.io/badge/Language-python-0000ff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-tkinter-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-PIL-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This repository contains the source code of a sprite sheet splitter. This sprite sheet splitter can split a sprite sheet with N rows and N columns. </p>
+
+<p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/VN7jDtb/sprite-sheet.png" width="600" alt="" />
+</p>
+
+#
+
 ## <p align="center">[Pacman _(2022)_](https://github.com/FACON-Nicolas/pacman)</p>
 
 <p align="center">
