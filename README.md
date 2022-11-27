@@ -45,13 +45,13 @@
             <td align="center">Networkx</td>
         </tr>
         <tr>
-            <td align="center"></td>
+            <td align="center">PHP</td>
             <td align="center"></td>
             <td align="center">Laravel</td>
             <td align="center">Blade</td>
+            <td align="center">Tkinter</td>
             <td align="center"></td>
-            <td align="center"></td>
-            <td align="center"></td>
+            <td align="center">PIL</td>
         </tr>
     </tbody>
 </table>
