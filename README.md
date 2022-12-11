@@ -118,6 +118,24 @@
 
 #
 
+## <p align="center">[Conway's game of life _(2022)_](https://github.com/FACON-Nicolas/conways-life-game)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v2.0-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/Language-python-005255" alt="">
+    <img src="https://img.shields.io/badge/Libraries-pygame-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-pygame__gui-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-23Ko-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This repository contains a conways game of life developped in python, but currently the project is not actually optimized.</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="resources/conways-py.gif" width="600" alt="" />
+</p>
+
+#
+
 ## <p align="center">[Tetris _(2021)_](https://github.com/FACON-Nicolas/Tetris)</p>
 
 <p align="center">
