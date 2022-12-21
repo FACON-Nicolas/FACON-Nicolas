@@ -46,12 +46,21 @@
         </tr>
         <tr>
             <td align="center">PHP</td>
-            <td align="center"></td>
+            <td align="center">JavaScript</td>
             <td align="center">Laravel</td>
             <td align="center">Blade</td>
             <td align="center">Tkinter</td>
             <td align="center"></td>
             <td align="center">PIL</td>
+        </tr>
+        <tr>
+            <td align="center">TypeScript</td>
+            <td align="center"></td>
+            <td align="center">JavaScript</td>
+            <td align="center">TypeScript</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">JDBC</td>
         </tr>
     </tbody>
 </table>
