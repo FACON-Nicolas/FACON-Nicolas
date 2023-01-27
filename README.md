@@ -74,6 +74,24 @@
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
 
+## <p align="center">[Age In Minutes Android App _(2023)_](https://github.com/FACON-Nicolas/age-in-minutes-appr)</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
+    <img src="https://img.shields.io/badge/Language-python-0000ff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-tkinter-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Libraries-PIL-00cfff" alt="">
+    <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This project is an Android Application that convert time in minutes, I use it the 26th Junuary 2023 to know my age in minutes (I am born the 1st April 2003), and at the moment when I am writing these lines, I am 10 427 100 minutes old.</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/vHGHb84/image-2.png" width="600" alt="" />
+</p>
+
+#
+
 ## <p align="center">[Sprite Sheet Splitter _(2022)_](https://github.com/FACON-Nicolas/sprite-sheet-splitter)</p>
 
 <p align="center">
