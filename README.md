@@ -55,7 +55,7 @@
         </tr>
         <tr>
             <td align="center">TypeScript</td>
-            <td align="center"></td>
+            <td align="center">Kotlin</td>
             <td align="center">JavaScript</td>
             <td align="center">Flask</td>
             <td align="center"></td>
