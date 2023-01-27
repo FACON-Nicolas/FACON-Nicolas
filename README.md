@@ -76,12 +76,12 @@
 
 ## <p align="center">[Age In Minutes Android App _(2023)_](https://github.com/FACON-Nicolas/age-in-minutes-appr)</p>
 
+
 <p align="center">
-    <img src="https://img.shields.io/badge/Release-v1.0-blue" alt="">
-    <img src="https://img.shields.io/badge/Language-python-0000ff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-tkinter-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Libraries-PIL-00cfff" alt="">
-    <img src="https://img.shields.io/badge/Size-unknown-f12222" alt="">
+    <img src="https://img.shields.io/badge/Release-v1.0-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/Language-Kotlin-005255" alt="">
+    <img src="https://img.shields.io/badge/Libraries-AndroidStudio-00cfff" alt="">
+    <img src="https://img.shields.io/badge/OS-Android-9cf" alt="">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
 </p>
 
