@@ -74,7 +74,25 @@
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
 
-## <p align="center">[Age In Minutes Android App _(2023)_](https://github.com/FACON-Nicolas/age-in-minutes-appr)</p>
+## <p align="center">[Calculator Android App _(2023)_](https://github.com/FACON-Nicolas/calculator-app)</p>
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Release-v1.0-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/Language-Kotlin-005255" alt="">
+    <img src="https://img.shields.io/badge/Libraries-AndroidStudio-00cfff" alt="">
+    <img src="https://img.shields.io/badge/OS-Android-9cf" alt="">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="">
+</p>
+
+<p align="center">This project is an Android Application that realizes basics arithmetics operations (<b> + - / *</b>), the features are the same as the iPhone's calculator.</p>
+
+<p align="center" style="margin: auto;"><img align="center" src="resources/calculator.png" width="600" alt="" />
+</p>
+
+#
+
+## <p align="center">[Age In Minutes Android App _(2023)_](https://github.com/FACON-Nicolas/age-in-minutes-app)</p>
 
 
 <p align="center">
