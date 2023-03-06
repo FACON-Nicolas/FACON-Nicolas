@@ -87,7 +87,7 @@
 
 <p align="center">This project is an Android Application that realizes basics arithmetics operations (<b> + - / *</b>), the features are the same as the iPhone's calculator.</p>
 
-<p align="center" style="margin: auto;"><img align="center" src="resources/calculator.png" width="600" alt="" />
+<p align="center" style="margin: auto;"><img align="center" src="resources/calculator.png" width="300" alt="" />
 </p>
 
 #
@@ -105,7 +105,7 @@
 
 <p align="center">This project is an Android Application that convert time in minutes, I use it the 26th Junuary 2023 to know my age in minutes (I am born the 1st April 2003), and at the moment when I am writing these lines, I am 10 427 100 minutes old.</p>
 
-<p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/vHGHb84/image-2.png" width="600" alt="" />
+<p align="center" style="margin: auto;"><img align="center" src="https://i.ibb.co/vHGHb84/image-2.png" width="300" alt="" />
 </p>
 
 #
