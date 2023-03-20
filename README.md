@@ -11,6 +11,7 @@
     <thead>
         <tr>
             <th colspan="2">Software Development</th>
+            <th colspan="1">Mobile Development</th>
             <th colspan="2">Web Development</th>
             <th colspan="2">Computer Graphics</th>
             <th>Framework</th>
@@ -20,6 +21,7 @@
         <tr>
             <td align="center">C++</td>
             <td align="center">Java</td>
+            <td align="center">Kotlin</td>
             <td align="center">HTML</td>
             <td align="center">CSS</td>
             <td align="center">Unity</td>
@@ -29,6 +31,7 @@
         <tr>
             <td align="center">Python</td>
             <td align="center">C#</td>
+            <td align="center">Android Studio</td>
             <td align="center">SQL</td>
             <td align="center">Git</td>
             <td align="center">JavaFX</td>
@@ -38,6 +41,7 @@
         <tr>
             <td align="center">bash</td>
             <td align="center">Git</td>
+            <td align="center">Swift</td>
             <td align="center">PLSQL</td>
             <td align="center">PHP</td>
             <td align="center">Pygame</td>
@@ -47,6 +51,7 @@
         <tr>
             <td align="center">PHP</td>
             <td align="center">JavaScript</td>
+            <td align="center">SwiftUI</td>
             <td align="center">Laravel</td>
             <td align="center">Blade</td>
             <td align="center">Tkinter</td>
@@ -56,6 +61,7 @@
         <tr>
             <td align="center">TypeScript</td>
             <td align="center">Kotlin</td>
+            <td align="center"></td>
             <td align="center">JavaScript</td>
             <td align="center">Flask</td>
             <td align="center"></td>
