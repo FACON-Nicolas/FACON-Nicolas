@@ -3,6 +3,10 @@
 <p align="center"> Hello ! I'm a 19 years old French student at <a href="http://www.iut-lens.univ-artois.fr/">Lens University Institute of Technology</a> 
 (2st year / 3) and I'm studying computer science.</p>
 
+<p align="center">I am currently in Ireland to improve my skill in computer sciences at <a href="">Dundalk Institute of Technology.</a></p>
+
+<p align="center">I'm improving my skill in mobile development to work as iOS Developer, in April 2023, I would like to work on my very first mission as freelance developer.</p>
+
 #### <p align="center">[contact me](mailto:faconicolas@gmail.com)</p>
 
 # <p align="center">:memo: Skills :memo:</p>
