@@ -39,7 +39,7 @@
             <td align="center">numpy</td>
         </tr>
         <tr>
-            <td align="center">bash</td>
+            <td align="center">bash</td>    
             <td align="center">Git</td>
             <td align="center">Swift</td>
             <td align="center">PLSQL</td>
@@ -70,12 +70,6 @@
         </tr>
     </tbody>
 </table>
-
-# <p align="center">:chart_with_upwards_trend: Stats :chart_with_upwards_trend:</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FACON-Nicolas&theme=radical">
-</p>
 
 # <p align="center">:card_file_box: Projects :card_file_box:</p>
 # <p align="center">:art: Personal :art:</p>
