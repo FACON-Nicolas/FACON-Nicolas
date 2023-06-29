@@ -18,7 +18,6 @@
             <th colspan="1">Mobile Development</th>
             <th colspan="2">Web Development</th>
             <th colspan="2">Computer Graphics</th>
-            <th>Framework</th>
         </tr>
     </thead>
     <tbody>
@@ -30,7 +29,6 @@
             <td align="center">CSS</td>
             <td align="center">Unity</td>
             <td align="center">Photoshop</td>
-            <td align="center">boost</td>
         </tr>
         <tr>
             <td align="center">Python</td>
@@ -40,7 +38,6 @@
             <td align="center">Git</td>
             <td align="center">JavaFX</td>
             <td align="center">SFML</td>
-            <td align="center">numpy</td>
         </tr>
         <tr>
             <td align="center">bash</td>    
@@ -50,7 +47,6 @@
             <td align="center">PHP</td>
             <td align="center">Pygame</td>
             <td align="center">Swing</td>
-            <td align="center">Networkx</td>
         </tr>
         <tr>
             <td align="center">PHP</td>
@@ -60,17 +56,24 @@
             <td align="center">Blade</td>
             <td align="center">Tkinter</td>
             <td align="center"></td>
-            <td align="center">PIL</td>
         </tr>
         <tr>
             <td align="center">TypeScript</td>
             <td align="center">Kotlin</td>
-            <td align="center"></td>
+            <td align="center">React Native</td>
             <td align="center">JavaScript</td>
             <td align="center">Flask</td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">JDBC</td>
+        </tr>
+        <tr>
+            <td align="center">Swift</td>
+            <td align="center">Dart</td>
+            <td align="center">Xcode</td>
+            <td align="center">Redux</td>
+            <td align="center">React</td>
+            <td align="center"></td>
+            <td align="center"></td>
         </tr>
     </tbody>
 </table>
