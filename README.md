@@ -7,7 +7,7 @@ Institute of Technology** !
 I'm passionate about **Open Source** and **programming**.
 I love to contribute to many projects and to create my own ones.
 
-I'm also a **Linux** and **MacOS**.
+I'm also a **Linux** and **MacOS** user.
 
 I'm currently learning **TypeScript** and **React**.
 React is a JavaScript library for building user interfaces and
