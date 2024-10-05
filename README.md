@@ -1,79 +1,58 @@
-# Welcome to my GitHub profile !
+# Welcome to my Github Profile
 
-Hello, my name is **Nicolas** and I'm a **Software Engineer** 
-from **France**. I'm currently studying at **Lens University
-Institute of Technology** !
+👋 Hi! I’m Nicolas, a freelance developer specializing in mobile development with React Native. I enjoy turning ideas into functional and intuitive apps. Whether it’s integrating complex features or optimizing performance, I’m always up for new challenges. If you want to chat about code or cool projects, feel free to reach out!
 
-I'm passionate about **Open Source** and **programming**.
-I love to contribute to many projects and to create my own ones.
-
-I'm also a **Linux** and **MacOS** user.
-
-I'm currently learning **TypeScript** and **React**.
-React is a JavaScript library for building user interfaces and
-I really enjoy working with it because it's very powerful,
-easy to use, and has a great community.
-
---- 
 # Skills
 
-| Library/Framework | Level | Language | Level |
-|-------------------| --- | --- | --- |
-| React             | ⭐⭐⭐⭐ | JavaScript | ⭐⭐⭐⭐ |
-| Node.js           | ⭐⭐⭐ | TypeScript | ⭐⭐⭐ |
-| Express           | ⭐⭐⭐ | Python | ⭐⭐ |
-| Adonis            | ⭐⭐ | HTML | ⭐⭐⭐⭐ |
+![React Native](https://img.shields.io/badge/React%20Native-Framework-blue)
+![Mobile](https://img.shields.io/badge/Mobile-Development-brightgreen)
+![iOS](https://img.shields.io/badge/iOS-Development-lightgrey)
+![Expo](https://img.shields.io/badge/Expo-Framework-blue)
+![Android](https://img.shields.io/badge/Android-SDK-orange)
+![Xcode](https://img.shields.io/badge/Xcode-IDE-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Platform-orange)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
+![API REST](https://img.shields.io/badge/API%20REST-Integration-yellow)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-lightblue)
+![Socket.io](https://img.shields.io/badge/Socket.io-Websocket-communication-darkblue)
+![Web Services](https://img.shields.io/badge/Web%20Services-Integration-yellowgreen)
 
-# Contact
+# Side projects
 
-- **Email**: faconicolas@gmail.com
-- **LinkedIn**: [Nicolas Facon](https://www.linkedin.com/in/nicolas-facon/)
+## LinguaPartner
 
----
-# Projects
+LinguaPartner is an app that makes language learning fun and interactive. Chat with an AI to improve your skills naturally and at your own pace. It's designed to help you progress without the rigidity of traditional methods, offering dynamic and personalized conversations!
 
-## Grocery List Maker (2024) (In Development)
+![LinguaPartner](https://dam.malt.com/2922977b-ca83-45cb-a5af-0c5cb022b640?org_if_sml=1?w=3840&h=3840&func=bound)
 
----
-![Release](https://img.shields.io/badge/Release-v0.1.0-blueviolet)
-![Language](https://img.shields.io/badge/Language-TypeScript-ffcc14)
-![Size](https://img.shields.io/badge/Size-525Kb-f12222)
-![Language](https://img.shields.io/badge/Framework-NextJs-ccff44)
-![Language](https://img.shields.io/badge/Framework-AdonisJs-ccff44)
+## PizzTable
 
-This is a web application that I'm currently developing.
-It's a grocery list maker that allows you to create, edit, and delete grocery lists.
-You can also add items to your lists and check them off when you buy them.
-You can add contributors to your lists and share them with them.
-![img.png](resources/grocery-list.png)
+PizzTable is a SaaS project aimed at streamlining table management for restaurants. With features like real-time table status updates, reservation handling, and API integrations, it helps restaurants optimize their seating and service. Built using React Native and AdonisJS, PizzTable focuses on delivering a user-friendly experience for restaurant owners to manage their operations more efficiently.
 
-## [Portfolio NextJS](https://facon-nicolas.github.io/portfolio-next) (2023)
+![PizzTable](https://dam.malt.com/ab20e7ed-37ab-4b06-86a8-9ff4351cc62b?org_if_sml=1?w=3840&h=3840&func=bound)
 
----
-![Release](https://img.shields.io/badge/Release-v1.0.0-blueviolet)
-![Language](https://img.shields.io/badge/Language-TypeScript-ffcc14)
-![Size](https://img.shields.io/badge/Size-525Kb-f12222)
-![Language](https://img.shields.io/badge/Framework-NextJs-ccff44)
-![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+# Professional experiences
 
-This is my personal portfolio. 
-It's a NextJS application that I created to showcase my projects and skills. 
-It's a static website that I host on GitHub Pages.
+## Efficience Digitale
 
-![img.png](resources/portfolio.png)
+### Qobook
 
---- 
+For Qobook, I’ve wrapped up the migration from Firebase to Supabase. This switch has helped structure the data more effectively while keeping key features like authentication and real-time notifications intact. With these final touches, the app is now smoother and more flexible for future growth.
 
-# Experience
+![Qobook](https://dam.malt.com/9c04aeb0-8db7-4b82-adaa-ec715c19a25a?org_if_sml=1?w=3840&h=3840&func=bound)
 
-## Software Engineer at [Lenrek Informatique](https://lenrek.fr) (2023-2024)
+### 365x
 
----
+For 365fois, I completed a full reskin of the app, integrated notifications, and migrated React Native from version 0.66 to 0.72. The app was then successfully published on the stores, providing users with a more modern and enhanced experience.
 
-I am currently working as a Software Engineer at Lenrek Informatique.
-I am in charge of developing web applications for our clients (urgencies).
-I work with a team of developers and we use the Agile methodology.
-I am also developping a new mobile application to 
-help our clients to manage their patients and appointments.
+![365fois](https://dam.malt.com/703bb33c-b9e0-4e85-86be-50817dceb269?org_if_sml=1?w=3840&h=3840&func=bound)
 
-![](https://lh3.googleusercontent.com/proxy/5wZVwQe-Lmsm669733caYkMZL7ccvfwwIt8UlUx3iBMFnWXvUHC1zy-W6T5kPKvPBgKcwlEe-V8J7Qkq-uubv0DP1VJBJZS01bYi1i3i)
+# Hobbies
+
+## Travelling
+
+I’m passionate about traveling and exploring new cultures, learning languages directly while being immersed in the local environment. I’ve traveled to Ireland and Spain, where I had the opportunity to dive into the local cultures and sharpen my language skills. These enriching experiences help me understand the countries I visit more deeply and build stronger connections with their people.
+
+## Tech
+
+I enjoy working on my side projects during my free time, with the idea of eventually commercializing them. I'm also passionate about everything related to tech in general, constantly exploring new trends and technologies to enhance my skills and projects.
