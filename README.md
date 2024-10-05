@@ -14,7 +14,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
 ![API REST](https://img.shields.io/badge/API%20REST-Integration-yellow)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-lightblue)
-![Socket.io](https://img.shields.io/badge/Socket.io-Websocket-communication-darkblue)
 ![Web Services](https://img.shields.io/badge/Web%20Services-Integration-yellowgreen)
 
 # Side projects
