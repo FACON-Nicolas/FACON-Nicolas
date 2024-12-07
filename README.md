@@ -22,7 +22,7 @@
 
 LinguaPartner is an app that makes language learning fun and interactive. Chat with an AI to improve your skills naturally and at your own pace. It's designed to help you progress without the rigidity of traditional methods, offering dynamic and personalized conversations!
 
-![LinguaPartner](https://dam.malt.com/2922977b-ca83-45cb-a5af-0c5cb022b640?org_if_sml=1?w=3840&h=3840&func=bound)
+![LinguaPartner](https://dam.malt.com/953c488b-581e-44cc-b039-112bf4462919?org_if_sml=1?w=1920&h=1920&func=bound)
 
 ## PizzTable
 
